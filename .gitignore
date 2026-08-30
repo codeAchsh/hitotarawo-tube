@@ -1,0 +1,18 @@
+# macOSの不要ファイル
+.DS_Store
+
+# Windowsの不要ファイル
+Thumbs.db
+
+# ログファイル
+*.log
+
+# ビルド成果物（もし使っていれば）
+dist/
+build/
+
+# node_modules（もしnpmを使っていれば）
+node_modules/
+
+# 環境設定ファイル（VSCodeなど）
+.vscode/

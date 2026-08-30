@@ -1,0 +1,16 @@
+{
+  "name": "favoriteradio-private-",
+  "version": "1.0.0",
+  "description": "個人的なラジオプレイヤーアプリです。  \r ヒトタラヲのラジオ音源を楽しむために作りました。  \r PWA対応・オフライン再生可能。",
+  "main": "service-worker.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "vite build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "vite": "^7.1.2"
+  }
+}
